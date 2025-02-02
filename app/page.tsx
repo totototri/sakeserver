@@ -1,4 +1,4 @@
-import SakeManager from "@/components/sake/SakeManager"
+import SakeManager from "../src/components/sake/SakeManager"
 
 export default function Home() {
   return (
